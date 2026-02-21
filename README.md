@@ -1,1 +1,1 @@
-# RTL-to-GDS-Flow-of-8-bit-Radix-4-Booth-Multiplier-
+# RTL-to-GDS-Flow-of-8-bit-Radix-4-Booth-Multiplier
